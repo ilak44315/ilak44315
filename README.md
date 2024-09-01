@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+https://github.com/ilak44315
+<a href = "https://github.com/ilak44315/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+</a>
 <!--
 **ilak44315/ilak44315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilak44315&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
